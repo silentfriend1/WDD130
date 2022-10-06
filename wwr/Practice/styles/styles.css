@@ -1,10 +1,18 @@
 nav, footer { 
     background-color: steelblue;
     color: white;
-    padding: 10px;
+    padding: 25px;
 
 }
+img {
+    border: 4px solide steelblue;
+}
+h1 { margin: 50px 0;}
 footer p {font-size: 20px;
 margin: 20px auto;
 }
+body {
+     margin: 0
+    }
+
 

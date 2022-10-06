@@ -4,7 +4,10 @@
 }
 
 nav a{
-    text-align:center;
+    text-decoration: none;
+    color: #fcfbfb;
+    text-align: center;
+    padding: 35px;
 }
 
 #hero-msg h1, #hero-msg h4{
@@ -26,7 +29,15 @@ main section{
 
 body{
     background-color: #175676;
+    font-family: Raleway, Arial, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
 }
+h2 {
+    margin: 0;
+}
+
 
 header{
     background-color: #fed166;
@@ -40,6 +51,17 @@ nav a:hover{
 .book, .join{
     background-color: #175676;
     color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.card-img {
+    border: 10px solid #d9c2a3;
+}
+main section img{
+    box-sizing: border-box;
 }
 
 .book:hover, .join:hover{
@@ -54,6 +76,7 @@ nav a:hover{
 
 .msg{
     background-color: white;
+    line-height: 1.5em;
 }
 
 footer{
@@ -122,4 +145,12 @@ footer p a:hover{
     text-decoration: underline;
 }
 
+.home-title {
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 2em;
+}
+
+   
+
+                                                                     
    
