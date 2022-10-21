@@ -60,8 +60,8 @@
   width: 100px; 
   height: 100px; 
   background-color: gold; 
-  grid-column: 3/4;
-  grid-row: 4/3;
+  grid-column: 3/5;
+  grid-row: 3/5;
   z-index: 2;
 } 
 .blue2 {
