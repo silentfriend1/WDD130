@@ -37,8 +37,8 @@
 /* Activity 2 styles */ 
 .content2 {
   display: grid;
-  grid-template-columns: repeat(5,50px);
-  grid-template-columns: repeat(5,50px);
+  grid-template-columns: repeat(5, 50px);
+  grid-template-columns: repeat(5, 50px);
   justify-items: left;
   /* This is the parent of the activity 2 boxes. */
 }
@@ -55,7 +55,7 @@
   background-color: green; 
   grid-column: 2/4;
   grid-row: 2/4;
-  z-index: 3;
+  z-index: 1;
 } 
 .yellow2 {
   width: 100px; 
@@ -71,6 +71,7 @@
   background-color: blue; 
   grid-column: 4/6;
   grid-row: 4/6;
+  z-index: 3;
 } 
 /* Activity 3 styles */ 
 .content3 {
