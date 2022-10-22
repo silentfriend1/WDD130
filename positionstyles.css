@@ -151,11 +151,11 @@
   
 .red5 { 
   width: 100%; 
-  height: 100px; 
+  height: 100%; 
   background-color: red; 
 } 
 .green5 { 
-  width: 200%; 
+  width: 200px; 
   height: 150px; 
   background-color: green;
   float: left; 
