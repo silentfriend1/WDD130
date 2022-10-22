@@ -91,6 +91,11 @@ main section img{
 
 footer{
     background-color: #fed166;
+    padding: 25px 50px;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 
@@ -165,15 +170,6 @@ footer p a:hover{
     align-self: center;
 }
 
-footer {
-    padding: 25px 50px;
-    background-color: #6f7364;
-    padding: 25px 50px;
-    margin-top: 200px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
 
 footer .social img {
     padding-top: 15px;
