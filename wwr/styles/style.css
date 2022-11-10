@@ -281,7 +281,20 @@ nav{
     footer {
         margin-top: 25px;
     }
+    .question {
+        grid-column:2/2;
+        grid-row: 11/12;
+        padding: 8px;
+
+
+    }
+    .answer {
+        grid-column: 2/2;
+        grid-row: 12/12;
+        padding: 8px;
+    }
 }
+
             
 
 
