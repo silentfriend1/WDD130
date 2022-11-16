@@ -225,7 +225,7 @@ nav{
     grid-template-columns: repeat(10, 1fr);
 }
 
-.rivers-card{
+.city-card{
     grid-column: 2/4;
     grid-row: 2/3;
 }
@@ -285,7 +285,7 @@ section p, h3{
         font-size: 25px;
         color: #6f7364;
     }
-    .rivers-card, .camping-card, .rapids-card { 
+    .city-card, .camping-card, .rapids-card { 
         margin: 50px auto;
         width: 60%;
     }
