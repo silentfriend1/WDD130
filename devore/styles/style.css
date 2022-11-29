@@ -39,6 +39,7 @@ body{
     margin: 0;
     padding: 0;
 }
+
 h2 {
     margin: 0;
 }
@@ -270,16 +271,16 @@ nav{
 
 /*FAQs page*/
 
-.faqs_heading{
+/* .faqs_heading{
     text-align: center;
-}
+} */
 
-.faqs_text{
+/* .faqs_text{
     margin: 0 100px;
     color: #d9c2a3;
     text-align: left;
     
-}
+} */
 
 
 
