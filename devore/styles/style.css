@@ -74,6 +74,7 @@ main section img{
     box-sizing: border-box;
 }
 
+
 .book:hover, .join:hover{
     background: #5d737e;
     color: black;
@@ -93,7 +94,7 @@ main section img{
 footer{
     background-color: #f0f7ee;
     padding: 25px 50px;
-    margin-top: 200px;
+    margin-top: 50px;
     display: flex;
     justify-content: space-around;
     align-items: center;
